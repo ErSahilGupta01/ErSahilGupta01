@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML ,CSS , React ,MongoDB ,NodeJs**
+- 💬 Ask me about **HTML ,CSS , React ,MongoDB ,NodeJs and Data Structures and Algorithms**
 
 - 📫 How to reach me **er.sahil.gupta01@gmail.com**
 
